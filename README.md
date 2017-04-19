@@ -22,10 +22,12 @@
 
 ## Data Structure
 
+## Design Pattern
+### [Builder](Design\ Pattern/Builder.md)
+
 ## Java
 * Java SE
     * Integer
-* Design Pattern
 
 ## Java Virtual Machine
 
