@@ -4,7 +4,7 @@
 java的优点：实现了热点代码检测和运行时编译及优化
 
 ### 1.2 Java技术体系
-![](../../static/java.jpeg)
+![](static/java.jpeg)
 
 
 ### 1.3 Java发展史
